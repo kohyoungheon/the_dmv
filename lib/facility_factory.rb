@@ -42,17 +42,3 @@ class FacilityFactory
     @facilities
   end
 end
-#   new_facility_hash = Hash.new
-#   if key == :title
-#     require 'pry'; binding.pry
-#     new_facility_hash[:name] = value
-#   elsif key == :location_1
-#     new_facility_hash[:address] = value[:human_address]
-#   elsif key == :phone_number
-#     new_facility_hash[:phone] = value
-#   end
-#   facilities << new_facility_hash
-# end
-# facilities
-# require 'pry'; binding.pry
-# end
